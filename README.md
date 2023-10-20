@@ -1,0 +1,1 @@
+Final degree project entitled "Mathematical modelling of zombies". The aim of the work is to model, using dynamical systems, the spread of a disease in a given population. In the thesis, we do this with the playful example of the evolution of a zombie invasion.
